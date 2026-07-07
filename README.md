@@ -1,5 +1,4 @@
 # NVIDIA GPU Sales Performance Dashboard
-
 An Excel dashboard analyzing GPU sales performance across product families, 
 regions, channels, and customer segments, built on a synthetic Kaggle dataset.
 
@@ -14,7 +13,7 @@ NVIDIA sells GPUs across multiple families, regions and channels. This dashboard
 - ...
 
 ## Dashboard Preview
-
+<img width="1637" height="651" alt="3  Dashboard" src="https://github.com/user-attachments/assets/2605978b-b32f-43a8-9f09-0388e229a542" />
 
 ## Key Insights
 1. Data Center AI is the primary revenue driver, not Gaming.
